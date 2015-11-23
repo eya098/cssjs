@@ -1,5 +1,5 @@
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	  var url_popup = 'http://sieuthihangcu.com/index.php?action=cc2&idtin=5';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
@@ -31,7 +31,3 @@
                  });
       });  
       //]]>
-	/*
-	var url_popup = 'http://giaiphapthuonghieu.vn';
-	<script src="https://jgoogle.googlecode.com/svn/trunk/popup.js"></script>
-	*/
