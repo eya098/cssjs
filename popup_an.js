@@ -1,5 +1,5 @@
       //<![CDATA[
-	  var url_popup = 'http://sieuthihangcu.com/index.php?action=cc2&idtin=5';
+	  var url_popup = 'http://sieuthihangcu.com/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
