@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://sieuthihangcu.com/index.php?action=cc2&amp;idtin=5' target='_blank'><img src='http://i218.photobucket.com/albums/cc173/eya098/logo_mau.jpg' width='500px'/>Thu mua Laptop cũ</a>. Giá cao nhất TPHCM. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://sieuthihangcu.com/index.php' target='_blank'><img src='http://i218.photobucket.com/albums/cc173/eya098/logo_mau.jpg' width='500px'/>Thu mua Laptop cũ</a>. Giá cao nhất TPHCM. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
