@@ -27,7 +27,7 @@ h2.date-header{display:none}
 #top-menu ul li{float:left;}
 #top-menu ul li a{background: url(http://4.bp.blogspot.com/-7CxYBombY1s/Uc1rtH7i3XI/AAAAAAAAEp8/zi-NHhayMkY/s10/nav-divider.png) repeat-y right;line-height:20px;padding:15px 20px;color:#c7e4ee;text-transform:uppercase;display:block;text-decoration:none;text-shadow: 0 1px 0 rgba(0,0,0,0.2);-webkit-transition: all 0.3s ease-in;-moz-transition: all 0.3s ease-in;-o-transition: all 0.3s ease-in;transition: all 0.3s ease-in; white-space: nowrap;}
 #top-menu ul li a:hover{background:#007a9f;color:#fff}
-#menu{background:#f0f0f0;border:1px solid #ddd;color:#ddd;height:35px;font-family:'Fujiyama', Arial, sans-serif;width:1090px;margin:0 auto;}
+#menu{background:#FFEB3B;border:1px solid #ddd;color:#ddd;height:35px;font-family:'Fujiyama', Arial, sans-serif;width:1090px;margin:0 auto;}
 #menu ul,#menu li{margin:0 auto;padding:0 0;list-style:none}
 #menu ul{height:35px;width:1100px}
 #menu li{float:left;display:inline;position:relative;font:bold 14px Arial;text-transform:uppercase;font-weight:normal}
